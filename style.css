@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.carousel-item img{
+    width: 100%;
+    height: 90vh;
+
+}
+.mycolor{
+    background-color:black;
+    
+}
+.navbar-collapse ul li a{
+    color: aliceblue;
+}
+.navbar-collapse ul li a:hover{
+    color: aliceblue;
+}
+
+.hr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* position sytle */
+/* .gymname{
+    background-color: #fff  ;
+    position: relative;
+    bottom: 350px;
+    right: 100px;
+    padding:15px;
+    border-radius: 10px;
+} */
+
+
+/* media query */
+/* 
+@media (max-width:1440px){
+
+    .gymname{
+        position: relative;
+        bottom: 200px;
+        right: 0px;
+        padding:3px;
+    } */
+    
+
+
+/* 
+@media (max-width:320px){
+
+    .gymname{
+        position: relative;
+        bottom: 200px;
+        right: 0px;
+        padding:3px;
+    }
+    
+
+} */
+/* media query */
+
+.services img{
+    
+    width: 1400%;
+    height:100%;
+}
+.offer_style{
+    background: #a6dcef;
+}
+.offer_bottom{
+    background:rgb(34, 36, 34); ;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+ 
+body{
+    background-color: red;
+}
